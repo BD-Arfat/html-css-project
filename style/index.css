@@ -142,3 +142,52 @@
   color: white;
   font-weight: bold;
 }
+
+/* end card section */
+
+.about-section {
+  margin-top: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  margin-bottom: 90px;
+}
+.about-section-image {
+  width: 800px;
+  height: 420px;
+}
+.about-text-section {
+  text-align: center;
+}
+.about-text-section-heading {
+  color: rgb(16, 16, 16);
+  font-family: Work Sans;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 39px;
+}
+.about-text-section-para {
+  color: rgb(16, 16, 16);
+  font-family: Work Sans;
+  font-size: 18px;
+  margin-top: 10px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.about-text-section-heading-2 {
+  color: rgb(16, 16, 16);
+  font-family: Work Sans;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: 600;
+  line-height: 38px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.icone {
+  width: 30px;
+}
