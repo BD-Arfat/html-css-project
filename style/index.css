@@ -64,3 +64,81 @@
   padding: 15px 30px;
   background: rgb(82, 195, 3);
 }
+
+/* start card section */
+
+.card-section {
+  margin-top: 60px;
+}
+.card {
+  text-align: center;
+  margin: 0px auto;
+}
+.card-item-section {
+  margin-top: 50px;
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+}
+.card-para {
+  color: rgb(16, 16, 16);
+  font-family: Work Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.card-heading {
+  color: rgb(16, 16, 16);
+  font-family: Work Sans;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 64px;
+  line-height: 45px;
+  text-align: center;
+  margin-top: 10px;
+}
+.card-items {
+  text-align: center;
+}
+.card-items-button {
+  border-radius: 8px;
+  margin-top: 10px;
+  border: none;
+  padding: 15px 30px;
+  background: rgba(82, 195, 3, 0.15);
+}
+.card-items-heaing {
+  color: rgb(16, 16, 16);
+  font-family: Work Sans;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 47px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.card-items-para {
+  color: rgb(16, 16, 16);
+  font-family: Work Sans;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.card-button {
+  text-align: center;
+  margin-top: 40px;
+}
+.card-section-button {
+  border-radius: 8px;
+  border: none;
+  padding: 20px 55px;
+  background: rgb(82, 195, 3);
+  color: white;
+  font-weight: bold;
+}
